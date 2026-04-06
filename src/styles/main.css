@@ -1,0 +1,16 @@
+/* Base */
+@import './base/variables.css';
+@import './base/reset.css';
+@import './base/utilities.css';
+
+/* Components */
+@import './components/sidebar.css';
+@import './components/header.css';
+@import './components/map.css';
+@import './components/camera.css';
+@import './components/chat.css';
+
+/* Pages */
+@import './pages/auth.css';
+@import './pages/dashboard.css';
+@import './pages/worker.css';
